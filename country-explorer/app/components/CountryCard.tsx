@@ -65,8 +65,8 @@ export default function CountryCard({ country }: CountryCardProps) {
                 </div>
 
                 <Link
-                    href={`/country/${country.cca3}`}
-                    className="inline-block mt-3 px-5 py-2 rounded-xl bg-cyan-400/20 border border-cyan-400/30 text-cyan-300 font-medium hover:bg-cyan-400/30 hover:shadow-[0_0_20px_rgba(0,255,255,0.25)] transition-all"
+                    href={`/countries/${country.cca3}`}
+                    className="flex items-center justify-center mt-3 px-5 py-2 rounded-xl bg-cyan-400/20 border border-cyan-400/30 text-cyan-300 font-medium hover:bg-cyan-400/30 hover:shadow-[0_0_20px_rgba(0,255,255,0.25)] transition-all"
                 >
                     View Details
                 </Link>

@@ -6,7 +6,7 @@ const requestCycle = async (url, options = {}) => {
     console.log("fetch answer:", url, response.status);
 
     if (!response.ok) {
-        throw new Error("Failed to fetch data");
+        return []
     }
 
     return response.json();
