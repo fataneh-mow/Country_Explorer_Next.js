@@ -1,5 +1,4 @@
-# World Explorer
-
+<img width="1505" height="789" alt="Screenshot 2026-05-31 at 12 10 07 am" src="https://github.com/user-attachments/assets/2c5842e1-a02b-443f-abe8-7d124f0c5a14" />
 World Explorer is a Next.js project that allows users to explore countries around the world. Users can view country details, search for countries, and learn about flags, capitals, populations, currencies, languages, and time zones.
 
 
@@ -120,6 +119,12 @@ globals.css
 - Neon/cyan theme
 - Responsive design
 - Hover animations
+
+## Screenshots
+<img width="1505" height="789" alt="Screenshot 2026-05-31 at 12 10 14 am" src="https://github.com/user-attachments/assets/9fd64fd6-f36e-4938-83b9-407a4a7124e3" />
+<img width="1505" height="789" alt="Screenshot 2026-05-31 at 12 10 27 am" src="https://github.com/user-attachments/assets/91c792c6-c89f-4093-b261-f0c232e3e05c" />
+<img width="1505" height="789" alt="Screenshot 2026-05-31 at 12 10 56 am" src="https://github.com/user-attachments/assets/9576576c-8f1e-4909-be7e-6d761cb43bcb" />
+<img width="1149" height="771" alt="Screenshot 2026-05-31 at 12 20 56 am" src="https://github.com/user-attachments/assets/5f189661-3c58-4eba-b66d-cb2036511ed5" />
 
 
 ## ▶Run Locally
